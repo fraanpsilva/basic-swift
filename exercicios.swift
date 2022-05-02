@@ -10,3 +10,5 @@ print("Eu nasci na cidade de \(cidadeNatal) no ano de \(anoNascimento)")
 // concatenação
 print("Eu nasci na cidade de " + cidadeNatal + ", no ano de " + String(anoNascimento))
 
+ // crie variáveis/constantes implicitas para os seguintes tipos: String, Int, Double, float
+  // crie variáveis/constantes explicitas para os seguintes tipos: String, Int, Double, float

@@ -11,4 +11,7 @@ print(anosDeCopaDoMundo)
 filmes.append("O Artista")
 print(filmes)
 
+// método count - para descobrir a quantidade de elementos dentro de um array
+filmes.count
+
 

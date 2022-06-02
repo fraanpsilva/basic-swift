@@ -14,4 +14,6 @@ print(filmes)
 // método count - para descobrir a quantidade de elementos dentro de um array
 filmes.count
 
-
+// adicionando os elementos de dentro do array filme, dentro do array anosDeCopa
+anosDeCopaDoMundo.append(filmes.count);
+print(anosDeCopaDoMundo)
